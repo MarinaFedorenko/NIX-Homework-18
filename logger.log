@@ -1,0 +1,8 @@
+15.09.2020 01:15:23.857 [Thread-0] INFO   nix.TextProducer - Start entering words:
+15.09.2020 01:15:28.836 [Thread-0] INFO   nix.TextProducer - input:  Hello
+15.09.2020 01:15:30.918 [Thread-0] INFO   nix.TextProducer - input:  world
+15.09.2020 01:15:35.083 [Thread-0] INFO   nix.TextProducer - input:  Hello world
+15.09.2020 01:15:43.008 [Thread-0] INFO   nix.TextProducer - input:  You are awesome!
+15.09.2020 01:16:07.109 [Thread-0] INFO   nix.TextProducer - input:  Thank you
+15.09.2020 01:16:10.271 [Thread-0] INFO   nix.TextProducer - Producer thread was stopped
+15.09.2020 01:16:10.271 [Thread-1] INFO   nix.TextConsumer - Consumer thread was stopped
